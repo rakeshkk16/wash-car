@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/wash-car/static/css/main.5851e65d.chunk.css",
+    "main.js": "/wash-car/static/js/main.4661d646.chunk.js",
+    "main.js.map": "/wash-car/static/js/main.4661d646.chunk.js.map",
+    "runtime-main.js": "/wash-car/static/js/runtime-main.89b718eb.js",
+    "runtime-main.js.map": "/wash-car/static/js/runtime-main.89b718eb.js.map",
+    "static/css/2.ed1298f3.chunk.css": "/wash-car/static/css/2.ed1298f3.chunk.css",
+    "static/js/2.97ff41a6.chunk.js": "/wash-car/static/js/2.97ff41a6.chunk.js",
+    "static/js/2.97ff41a6.chunk.js.map": "/wash-car/static/js/2.97ff41a6.chunk.js.map",
+    "static/js/3.27c47ea1.chunk.js": "/wash-car/static/js/3.27c47ea1.chunk.js",
+    "static/js/3.27c47ea1.chunk.js.map": "/wash-car/static/js/3.27c47ea1.chunk.js.map",
+    "index.html": "/wash-car/index.html",
+    "static/css/2.ed1298f3.chunk.css.map": "/wash-car/static/css/2.ed1298f3.chunk.css.map",
+    "static/css/main.5851e65d.chunk.css.map": "/wash-car/static/css/main.5851e65d.chunk.css.map",
+    "static/js/2.97ff41a6.chunk.js.LICENSE.txt": "/wash-car/static/js/2.97ff41a6.chunk.js.LICENSE.txt",
+    "static/media/about.7869575d.jpg": "/wash-car/static/media/about.7869575d.jpg",
+    "static/media/blog-1.5ee69c54.jpg": "/wash-car/static/media/blog-1.5ee69c54.jpg",
+    "static/media/blog-2.fc016795.jpg": "/wash-car/static/media/blog-2.fc016795.jpg",
+    "static/media/blog-3.1b65c85b.jpg": "/wash-car/static/media/blog-3.1b65c85b.jpg",
+    "static/media/carousel-1.c0e9b7e2.jpg": "/wash-car/static/media/carousel-1.c0e9b7e2.jpg",
+    "static/media/carousel-2.3553bff0.jpg": "/wash-car/static/media/carousel-2.3553bff0.jpg",
+    "static/media/carousel-3.de6e447a.jpg": "/wash-car/static/media/carousel-3.de6e447a.jpg",
+    "static/media/team-1.2257b19d.jpg": "/wash-car/static/media/team-1.2257b19d.jpg",
+    "static/media/team-2.4b31f2cd.jpg": "/wash-car/static/media/team-2.4b31f2cd.jpg",
+    "static/media/team-3.211203e4.jpg": "/wash-car/static/media/team-3.211203e4.jpg",
+    "static/media/team-4.9afe8ce7.jpg": "/wash-car/static/media/team-4.9afe8ce7.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.89b718eb.js",
+    "static/css/2.ed1298f3.chunk.css",
+    "static/js/2.97ff41a6.chunk.js",
+    "static/css/main.5851e65d.chunk.css",
+    "static/js/main.4661d646.chunk.js"
+  ]
+}
