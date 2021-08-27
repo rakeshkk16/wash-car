@@ -8,7 +8,7 @@ export const Header = (props) => {
                         <div className="col-lg-4 col-md-12">
                             <div className="logo">
                                 <a href="index.html">
-                                    <h1>Auto<span>Wash</span></h1>
+                                    <h1>Car-<span>Wash</span></h1>
                                     {/* <!-- <img src="../../images/logo.jpg" alt="Logo"> --> */}
                                 </a>
                             </div>
